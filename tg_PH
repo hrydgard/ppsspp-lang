@@ -1,0 +1,362 @@
+[MainMenu]
+Load = Ikarga
+Main Settings = Main Set-up
+Credits = Kredito
+Exit = Umalis
+Recent = Huling Nilaro
+Game Settings = Settings ng Laro
+Games = Mga Laro
+Homebrew & Demos = Homebrew && Demos
+How to get games = Paano makakukuha ng laro
+Support PPSSPP = Suportahan ang PPSSPP
+How to get homebrew & demos = Paano makakukuha ng homebrew && demos
+www.ppsspp.org = www.ppsspp.org
+Home = Tahanan
+
+[System]
+General = Heneral
+Dynarec = Dynarec (JIT)
+DynarecisJailed = Dynarec (JIT) - (Not jailbroken - JIT not available)
+Fast Memory = Bilis Memorya (di stable)
+Multithreaded (eksperimental) = Multithreaded (experimental)
+I/O on thread (eksperimental) = I/O sa thread (eksperimental)
+Show FPS = Ipakita FPS
+Enable Cheats = Paganahin ang daya
+Day Light Saving = Daylight savings
+Change Nickname = Baguhin ang palayaw
+Developer Tools = Kagamitan ng Taga-Develop
+Enable Compatibility Server Reports = Paganahin ang compatibility server reports
+System Language = Wika ng Sistema
+12HR = 12HR
+24HR = 24HR
+Cheats = Daya (eksperimental, see forums)
+Emulation = Emulasyon
+PSP Settings = Ayos ng PSP
+Use X to confirm = X para pumili
+Use O to confirm = O para pumili
+YYYYMMDD = TTTTBBPP
+MMDDYYYY = BBPPTTTT
+DDMMYYYY = PPBBTTTT
+Screenshots as PNG = Screenshots as PNG
+Time Format = Format ng Oras
+Date Format = Format ng Petsa
+Confirmation Button = Buton pangkumpirma
+Change CPU Clock = Change CPU Clock (0 = default)
+Clear Recent Games List = Burahin Listahan ng Laro
+
+[Graphics]
+Stretch to Display = Stretch to display
+Hardware Transform = Hardware transform
+Texture Filtering = Texture filtering
+Frame Skipping = Frameskipping
+Vertex Cache = Vertex cache
+Mipmapping = Mipmapping
+Anti-Aliasing = Antialiasing
+Alternative Speed = Alternatibong Bilis
+Unlimited = Unlimited
+True Color = True color
+Anisotropic Filtering = Anisotropic filtering
+Texture Scaling = Texture scaling
+Deposterize = Deposterize
+None = Wala
+Speed = Bilis
+FPS = FPS
+Both = Parehas
+Auto = Awto
+2x = 2x
+3x = 3x
+4x = 4x
+5x = 5x
+8x = 8x
+16x = 16x
+xBRZ = xBRZ
+Hybrid = Hybrid
+Bicubic = Bicubic
+Hybrid + Bicubic = Hybrid + Bicubic
+VSync = VSync
+FullScreen = Fullscreen
+Show FPS Counter = Ipakita FPS counter
+Show Debug Statistics = Ipakita ang debug statistics
+Upscale Level = Upscale level
+Upscale Type = Upscale type
+Texture Filter = Texture filter
+Nearest = Pinakamalapit
+Linear = Linyar
+Linear on FMV = Linyar sa FMV
+Non-Buffered Rendering = Non-buffered rendering
+Buffered Rendering = Buffered rendering
+Read Framebuffers To Memory (CPU) = Read framebuffers to memory (CPU)
+Read Framebuffers To Memory (GPU) = Read framebuffers to memory (GPU)
+Toggled Speed Limit = Toggled speed limit
+Software Rendering = Software rendering (experimental)
+Debugging = Debugging
+Dump next frame to log = Dump next frame to log
+Features = Mga Tampok
+Force max 60 FPS (helps GoW) = Pilitin ang 60 FPS (helps GoW)
+Frame Rate Control = Framerate control
+Mode = Mode
+Off = Off
+Overlay Information = Overlay Information
+Rendering Mode = Rendering mode
+
+[Pause]
+Save State = i-Save
+Load State = i-Load
+Continue = Ituloy
+Settings = Settings
+Back to Menu = Balik sa Menu
+Exit to menu = Pumunta sa menu
+Game Settings = Setting ng Laro
+
+[MainSettings]
+Settings = Settings
+Audio = Tunog
+Graphics = Grapiko
+System = Sistema
+Controls = Kontrol
+Developer = Taga-Develop
+
+[Developer]
+Developer Tools = Gamit ng Taga-Develop
+Load language ini = Load language ini
+Save language ini = Save language ini
+Run CPU Tests = Run CPU Tests
+Dump next frame = Dump next frame
+Cleanup Recents = Cleanup Recents
+Enable Logging = Enable debug logging
+System Information = Impormasyon ng Sistema
+Restore Default Settings = Ibalik ang Setting sa Default
+Language = Wika
+
+[Audio]
+Enable Sound = Paganahin ang Tunog
+Enable Atrac3+ = i-On ang Atrac3+
+Download Atrac3+ plugin = Download Atrac3+ plugin
+Redownload Atrac3+ plugin = Redownload Atrac3+ plugin
+SFX volume = SFX bolyum
+BGM volume = BGM bolyum
+Low latency audio = Low latency audio (may stutter)
+
+[Controls]
+OnScreen = On-screen touch controls
+Large Controls = Malaking Kontrol
+Button Scaling = Sukat ng Buton
+Tilt = Tilt to control analog stick (horizontal axis)
+Button Opacity = Linaw ng Buton
+Show Left Analog Stick = Show left analog stick
+Control Mapping = Control Mapping
+
+[General]
+Back = Balik
+
+[Dialog]
+Back = Balik
+Yes = Oo
+No = Hindi
+OK = OK
+Cancel = Kanselahin
+Enter = Enter
+Select = Piliin
+Delete = Burahin
+Start = Start
+Finish = Tapos
+Shift = Shift
+NEW DATA = BAGONG DATOS
+Confirm Save = Nais mo bang i-save ang datos?
+Confirm Overwrite = Nais mo bang i-overwrite ang datos?
+ConfirmLoad = i-Load ang Datos?
+Saving = Saving\nSandali...
+Save completed = Save Kumpleto.
+Loading = Loading\nSandali...
+Load completed = Load Kumpleto.
+There is no data = Walang Datos
+DeleteConfirm = ang save data na ito ay mabubura.\nGusto mo bang ituloy?
+Deleting = Bura.. Bura..\nSandali...
+Delete completed = Burado na.
+DeleteConfirmAll = Gusto mo bang burahin\nang save data ng larong ito?
+DeleteConfirmGame = Gusto mo bang burahin ang larong ito\nsa iyong device? Wala ng undo ito.
+RestoreDefaultSettings = Ibalik ang lahat ng setting sa default?\nControl mapping settings ay di magbabago.\n\n\nWala ng undo ito.\nPaki-restart ang PPSSPP para gumana ang setting.
+
+[Error]
+Error loading file = Error loading file:
+PS1 EBOOTs are not supported by PPSSPP. = PS1 EBOOTS ay di suportado ng PPSSPP.
+Failed to load executable: File corrupt = failed to load executable: file corrupt.
+File is compressed (RAR).\nPlease decompress first (try WinRAR) = file ay compressed (RAR).\nPaki decompress muna (try WinRAR).
+File is compressed (RAR).\nPlease decompress first (try UnRAR) = file ay compressed (RAR).\nPaki decompress muna (try UnRAR).
+File is compressed (ZIP).\nPlease decompress first (try WinRAR) = file ay compressed (ZIP).\nPaki decompress muna (try WinRAR).
+File is compressed (ZIP).\nPlease decompress first (try UnRAR) = file ay compressed (ZIP).\nPaki decompress muna (try UnRAR).
+Just a directory. = just a directory.
+Failed to identify file = sablay sa pagtukoy ng file.
+Error reading file = error reading file.
+No EBOOT.PBP, misidentified game = no EBOOT.PBP, misidentified game.
+
+[Screen]
+fixed = Speed: alternate
+standard = Speed: standard
+Loaded State = State loaded
+Saved State = State saved
+LoadStateDoesntExist = Problema sa load state: Walang Savestate!
+LoadStateWrongVersion = Problema sa load state: Ang Savestate ay para sa lumang bersyon ng PPSSPP!
+Save State Failed = Failed to save state!
+PressESC = Press ESC to open the pause menu.
+
+[PSPCredits]
+created = Created by
+license = Free software under GPL 2.0
+title = A fast and portable PSP emulator
+contributors = Contributors:
+specialthanks = Special thanks to:
+written = Written in C++ for speed and portability
+tools = Free tools used:
+website = Check out the website:
+list = compatibility lists, forums, and development info
+check = Also check out Dolphin, the best Wii/GC emu around:
+info1 = PPSSPP is intended for educational purposes only.
+info2 = Please make sure that you own the rights to any games
+info3 = you play by owning the UMD or by buying the digital
+info4 = download from the PSN store on your real PSP.
+info5 = PSP is a trademark by Sony, Inc.
+Buy Gold = Buy Gold
+PPSSPP Forums = PPSSPP Forums
+this translation by = this translation by: globe94
+
+[Plugin]
+Already installed = Mai's Atrac3+ decoder ay naka-install na.\nGusto mo bang i-install muli?
+Atrac3+ Audio Support = Atrac3+ Audio Support
+Back = Balik
+Download and install = Download at install
+Failed to download plugin = Failed to download plugin.\nSubukan ulit mamaya.
+Failed to reach server = Failed to reach server.\nPlease try again later and check that you have a\nworking Internet connection.
+Installed Correctly = Mai's Atrac3+ plugin is downloaded and installed.\nInstallation completed.
+Looking for download... = Looking for download...
+More Information = Mga Impormasyon
+Origins are dubious = * Mai's Atrac3+ decoder is currently required\nfor background audio and voice in many games.\nPlease note that the origins of this code are dubious.\nChoose More Information for more information.
+SorryNoDownload = Sorry, there is no automatic download of the decoder\navailable for this platform.
+To download and install = Mai Atrac3+ plugin downloaded and installed.\nPlease press Back.
+
+[KeyMapping]
+Clear All = Burahin Lahat
+Default All = Default Lahat 
+Map a new key for = Bagong key para sa
+
+[MappableControls]
+Up = Taas 
+Down = Baba 
+Left = Kaliwa 
+Right = Kanan 
+An.Up = An.Taas 
+An.Down = An.Baba 
+An.Left = An.Kaliwa 
+An.Right = An.Kanan 
+RapidFire = RapidFire 
+Unthrottle = Unthrottle 
+SpeedToggle = SpeedToggle 
+Pause = Hinto 
+RightAn.Up = KanangAn.Taas 
+RightAn.Down = KanangAn.Baba 
+RightAn.Left = KanangAn.Kaliwa 
+RightAn.Right = KanangAn.Kanan 
+
+[DesktopUI]
+# If your language does not show well with the default font, you can use Font to specify a different one.
+#Font = Trebuchet MS
+
+File = &File
+Load = &Load...
+Open Directory... = Open &Directory...
+Open from MS:/PSP/GAME... = O&pen from MS:/PSP/GAME...
+Open Memory Stick = Open &Memory Stick
+Load State = Load State
+Save State = Save State
+Load State File... = &Load State File...
+Save State File... = &Save State File...
+Exit = E&xit
+
+Emulation = &Emulation
+# This shows up only while in game.
+Run = &Run
+# And this one doesn't show up while in game.
+Pause = &Pause
+Stop = &Stop
+Reset = R&eset
+Run on Load = Run on &Load
+Enable Sound = Enable S&ound
+Enable Atrac3+ = Enable &Atrac3+
+Enable Cheats = Enable &Cheats (Resets Game)
+Rendering Backend = Rendering &Backend
+	OpenGL Rendering = Open&GL Rendering
+	Software Rendering = &Software Rendering
+Dynarec = &Dynarec
+Multithreaded (Experimental) = &Multithreaded (Experimental)
+I/O on Thread (Experimental) = &I/O on Thread (Experimental)
+
+Debugging = Debu&g
+Load Map File... = Load &Map File...
+Save Map File... = &Save Map File...
+Reset Symbol Table = &Reset Symbol Table
+Dump Next Frame to Log = D&ump Next Frame to Log
+Take Screenshot = &Take Screenshot
+Disassembly = &Disassembly...
+Log Console = &Log Console
+Memory View... = Memory &View...
+
+Game Settings = &Game Settings
+Fullscreen = Fu&llscreen
+Keep PPSSPP On Top = &Keep PPSSPP on Top
+Stretch to Display = &Stretch to Display
+Rendering Resolution = &Rendering Resolution
+&1x = &1x
+&2x = &2x
+&3x = &3x
+&4x = &4x
+Rendering Mode = Rendering M&ode
+Non-Buffered Rendering = &Non-Buffered Rendering
+Buffered Rendering = &Buffered Rendering
+Read Framebuffers To Memory (CPU) = Read Framebuffers To Memory (&CPU)
+Read Framebuffers To Memory (GPU) = Read Framebuffers To Memory (&GPU)
+Frame Skipping = &Frameskipping
+Off = &Off
+Auto = &Auto
+# Also uses Auto from above.  Please open an issue on GitHub if your language needs different words.
+Texture Filtering = Te&xture Filtering
+Nearest = &Nearest
+Linear = &Linear
+Linear on FMV = Linear on &FMV
+# Also uses Off and Auto from above.  Please open an issue on GitHub if your language needs different words.
+Texture Scaling = &Texture Scaling
+xBRZ = &xBRZ
+Hybrid = &Hybrid
+Bicubic = &Bicubic
+Hybrid + Bicubic = H&ybrid + Bicubic
+Deposterize = &Deposterize
+Hardware Transform = &Hardware Transform
+Vertex Cache = &Vertex Cache
+Mipmapping = &Mipmapping
+Anti-Aliasing = Antialiasi&ng
+VSync = VS&ync
+Show FPS Counter = Show &FPS Counter
+Show Debug Statistics = Show Debu&g Statistics
+Fast Memory = F&ast Memory (Unstable)
+Ignore Illegal Reads/Writes = &Ignore Illegal Reads/Writes
+
+Help = &Tulong
+www.ppsspp.org = Visit www.&ppsspp.org
+PPSSPP Forums = PPSSPP &Forums
+Buy Gold = Buy &Gold
+About PPSSPP... = &About PPSSPP...
+
+[Game]
+Play = Laro
+Game Settings = Game settings
+DeleteGame = Delete game
+Create Shortcut = Create shortcut
+Game = Laro
+SaveData = Savedata
+DeleteSaveData = Delete Savedata
+
+[CwCheats]
+Options = Options
+Back = Balik
+Import Cheats = Import from cheat.db
+Enable/Disable All = Enable/Disable all Cheats
+Cheats = Daya
