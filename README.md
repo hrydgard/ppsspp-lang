@@ -13,6 +13,7 @@ PPSSPP language ini repository
 
 # Examples:
 * Example 1: `&File`. This will make it so when you press ALT + F on Windows, it'll open the File menu.
+
 <!-- ![1](http://scr.mryadro.ru/3hauglpnbd.png) -->
 
 ### Happy translating!
