@@ -10,10 +10,6 @@ PPSSPP language ini repository
 # Please note, while translating:
 * Ampersands `&` on the *RIGHT* side of an equals sign denote an underlined keyboard hotkey.
 * The hotkeys are only supported currently in the *DesktopUI* section, however.
-
-# Examples:
-* Example 1: `&File`. This will make it so when you press ALT + F on Windows, it'll open the File menu.
-
-<!-- ![1](http://scr.mryadro.ru/3hauglpnbd.png) -->
+* Example: `&File`. This will make it so when you press ALT + F on Windows, it'll open the File menu.
 
 ### Happy translating!
