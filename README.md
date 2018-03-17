@@ -16,6 +16,9 @@ PPSSPP language ini repository
 
 * To remove a translation, use the following (where KeyWord is the key):
 
-    find . -type f -print0 | xargs -0 sed -i /KeyWord/d
+    find . -type f -print0 | xargs -0 sed -i /^KeyWord/d
+
+* Before you commit, use git diff to check that you don't delete too much
+  or some unrelated key with the same prefix.
 
 ### Happy translating!
