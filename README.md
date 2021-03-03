@@ -18,6 +18,10 @@ PPSSPP language ini repository
 
     find . -type f -print0 | xargs -0 sed -i /^KeyWord/d
 
+* To change a translation key, use something like this:
+
+    find . -type f -print0 | xargs -0 sed -i /^Key/NewKey
+
 * Before you commit, use git diff to check that you don't delete too much
   or some unrelated key with the same prefix.
 
